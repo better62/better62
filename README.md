@@ -1,20 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=1&section=header&text=Welcome%20&fontSize=50&animation=twinkling&desc=better%20github&descSize=30)
 
+## :herb: Study Status
+
+| Field | Start | Completion | Details |
+| ------ | -- | -- |----------- |
+| Linear Algebra | ☑️ |  | 선형대수학 이상화 교수님 강의 다 듣기 |
+| Maching Learning Basic | ☑️ |  | 전반적인 모델 훈련 과정, 주요 모델들 알고리즘 학습(수학적 접근), 주요 모델 비교(장단점 분석) |
+| Deep Learning Basic | ☑️ |  | 전반적인 모델 훈련 과정, pytorch 구현, 주요 모델들 비교(장단점 분석)|
+| Generative Model | ☑️ |  | 확률적 생성 모델, GAN, GAN으로부터 파생된 모델들(SAGAN, StyleGAN 등) |
+| Computer Vision | ☑️ |  | 컴퓨터 비전 교재보면서 공부하기 |
+| cs231n | ☑️ |  | 복습하기 |
+| Big Data Anlaytics |  |  | 빅데이터 분석기사 자격증 |
+| Probability and Statistics |  |  | 확률과 통계 - 여름 방학 |
+| NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
 
 ![better62's github stats](https://github-readme-stats.vercel.app/api?username=better62&show_icons=true)
 
 [![better62's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=better62&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/better62)
 
-## :herb: Study Status
-
-| Field | Start | Completion | Details |
-| ------ | -- | -- |----------- |
-| Linear Algebra | ☑️ | ☑ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
-| Maching Learning Basic | ☑️ | ☑ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
-| Deep Learning Basic | ☑️ | ☑ | TableView, CollectionView, 데이터 전달 방식 |
-| Generative Model | ☑️ | ☑ | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
-| Computer Vision |  |  |디자인 합동 세미나 |
-| Big Data Anlaytics |  |  |서버 합동 세미나 + 솝커톤  |
-| Probability and Statistics |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
-| cs231n | ☑️ | ☑️ |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
