@@ -18,7 +18,7 @@
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
 | Linear Algebra | ☑️ |  | 선형대수학 이상화 교수님 강의 다 듣기 |
-| Maching Learning Basic | 🗸 |  | 전반적인 모델 훈련 과정, 주요 모델들 알고리즘 학습(수학적 접근), 주요 모델 비교(장단점 분석) |
+| Maching Learning Basic |🌺 |  | 전반적인 모델 훈련 과정, 주요 모델들 알고리즘 학습(수학적 접근), 주요 모델 비교(장단점 분석) |
 | Deep Learning Basic | ☑️ |  | 전반적인 모델 훈련 과정, pytorch 구현, 주요 모델들 비교(장단점 분석)|
 | Generative Model | ☑️ |  | 확률적 생성 모델, GAN, GAN으로부터 파생된 모델들(SAGAN, StyleGAN 등) |
 | Computer Vision | ☑️ |  | 컴퓨터 비전 교재보면서 공부하기 |
