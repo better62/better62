@@ -15,6 +15,8 @@
 | NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbetter62%2Fbetter62%2Fhit-counter&count_bg=%23416D1F&title_bg=%23D48DBB&icon=&icon_color=%23EA7EC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
 
 ![better62's github stats](https://github-readme-stats.vercel.app/api?username=better62&show_icons=true)
