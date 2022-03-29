@@ -1,5 +1,5 @@
 ### LEE NAEUN :herb:
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&customColorList=0&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&customColorList=1&section=header&text=capsule%20render&fontSize=90)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
