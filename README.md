@@ -17,10 +17,7 @@
 | cs231n | ☑️ |  | 복습하기 |
 | Big Data Anlaytics |  |  | 빅데이터 분석기사 자격증 |
 | Probability and Statistics |  |  | 확률과 통계 - 여름 방학 |
-| NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |
-
-
-
+| NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |  
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
