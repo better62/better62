@@ -3,6 +3,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbetter62%2Fbetter62%2Fhit-counter&count_bg=%23416D1F&title_bg=%23D48DBB&icon=&icon_color=%23EA7EC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/har99mit)](https://blog.naver.com/har99mit)
+
 ## :herb: Study Status
 
 | Field | Start | Completion | Details |
@@ -17,7 +19,6 @@
 | Probability and Statistics |  |  | 확률과 통계 - 여름 방학 |
 | NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |
 
-![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/har99mit)](https://blog.naver.com/har99mit)
 
 
 
