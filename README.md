@@ -19,6 +19,7 @@
 | Probability and Statistics |  |  | 확률과 통계 - 여름 방학 |
 | NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |  
 
+## :herb: Github Status
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
 
