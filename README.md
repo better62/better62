@@ -14,7 +14,7 @@
 <div align=left>
   
 ## :herb: Study Status
-
+  
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
 | Linear Algebra | ☑️ |  | 선형대수학 이상화 교수님 강의 다 듣기 |
@@ -32,6 +32,10 @@
 <div align=left>
   
 ## :herb: Github Status
+  
+</div>
+
+<div align=center>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
 
