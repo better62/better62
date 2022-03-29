@@ -20,7 +20,7 @@
 | NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |  
 
 
-
+#
 ## :herb: Github Status
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=better62)
