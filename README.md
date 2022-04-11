@@ -13,7 +13,7 @@
 
 <div align=left>
   
-## :herb: Study Status (2021-1)
+## :herb: Study Status (2022-1)
   
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
