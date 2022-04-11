@@ -13,7 +13,7 @@
 
 <div align=left>
   
-## :herb: Study Status
+## :herb: Study Status (2021-1)
   
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
@@ -23,9 +23,9 @@
 | Generative Model |🌱 |  | 확률적 생성 모델, GAN, GAN으로부터 파생된 모델들(SAGAN, StyleGAN 등) |
 | Computer Vision | 🌱 |  | 컴퓨터 비전 교재보면서 공부하기 |
 | cs231n | 🌱 |  | 복습하기 |
-| Big Data Anlaytics |  |  | 빅데이터 분석기사 자격증 |
-| Probability and Statistics |  |  | 확률과 통계 - 여름 방학 |
-| NLP |  |  | 전처리, RNN, LSTM, Attention 등으로 뻗어나가기  |  
+| Data Anlaytics |  |  | 데이터 분석 준전문가 자격증 |
+| SQL |  |  | SQL 개발자 자격증 |
+| TEPS |  |  | 453점 이상....  |  
 
 </div>
 
