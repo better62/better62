@@ -22,7 +22,6 @@
 | Deep Learning Basic | 🌱|  | 전반적인 모델 훈련 과정, pytorch 구현, 주요 모델들 비교(장단점 분석)|
 | TEPS | 🌱 |  | 453점 이상.... |
 | AI competition | 🌱 |  | 예선 준비 |
-| TEPS | 🌱 |  |   |  
 | Data Science | 🌱 |  | microsoft - data science for beginners |
 | AI RUSH | 🌱 |  | 본선 준비 |
 
