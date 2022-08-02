@@ -13,19 +13,18 @@
 
 <div align=left>
   
-## :herb: Study Status (2022-1)
+## :herb: Study Status (2022-Summer)
   
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
-| Linear Algebra | 🌱 |  | 선형대수학 이상화 교수님 강의 다 듣기 |
+| WebRTC | 🌱 |  | WebRTC 공부 및 구현 |
 | Maching Learning Basic |🌱 |  | 전반적인 모델 훈련 과정, 주요 모델들 알고리즘 학습(수학적 접근), 주요 모델 비교(장단점 분석) |
 | Deep Learning Basic | 🌱|  | 전반적인 모델 훈련 과정, pytorch 구현, 주요 모델들 비교(장단점 분석)|
-| Generative Model |🌱 |  | 확률적 생성 모델, GAN, GAN으로부터 파생된 모델들(SAGAN, StyleGAN 등) |
-| Computer Vision | 🌱 |  | 컴퓨터 비전 교재보면서 공부하기 |
-| cs231n | 🌱 |  | 복습하기 |
-| ADsP | 🌱 | 🌳 | 데이터 분석 준전문가 자격증 |
-| SQLD | 🌱  | 🌳  | SQL 개발자 자격증 |
-| TEPS |  |  | 453점 이상....  |  
+| TEPS | 🌱 |  | 453점 이상.... |
+| AI competition | 🌱 |  | 예선 준비 |
+| TEPS | 🌱 |  |   |  
+| Data Science | 🌱 |  | microsoft - data science for beginners |
+| AI RUSH | 🌱 |  | 본선 준비 |
 
 </div>
 
