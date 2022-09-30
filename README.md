@@ -20,7 +20,7 @@
 | WebRTC | 🌱 | 🌼 | WebRTC 공부 및 구현 |
 | Maching Learning Basic |🌱 |  | 전반적인 모델 훈련 과정, 주요 모델들 알고리즘 학습(수학적 접근), 주요 모델 비교(장단점 분석) |
 | Deep Learning Basic | 🌱|  | 전반적인 모델 훈련 과정, pytorch 구현, 주요 모델들 비교(장단점 분석)|
-| TEPS | 🌱 |  | 500점 이상 |
+| TEPS | 🌱 | 🌼 | 400점 이상 |
 | AI competition | 🌱 | 🌼 | 예선 준비 |
 | Data Science | 🌱 |  | microsoft - data science for beginners |
 | AI RUSH | 🌱 | 🌼 | 본선 준비 |
