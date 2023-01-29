@@ -17,7 +17,7 @@
   
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
-| CV |2023.1|〰️||NAVER CLOVA Intern|
+| CV |2023.1|〰️|--|NAVER CLOVA Intern|
 </div>
 
 <div align=left>
