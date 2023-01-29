@@ -13,18 +13,11 @@
 
 <div align=left>
   
-## :herb: Study Status (2022-Summer)
+## :herb: Study Status (2023)
   
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
-| WebRTC | 🌱 | 🌼 | WebRTC 공부 및 구현 |
-| Maching Learning |🌱 |  | 전반적인 모델 훈련 과정, 주요 모델들 알고리즘 학습(수학적 접근), 주요 모델 비교(장단점 분석) |
-| Deep Learning | 🌱|  | 전반적인 모델 훈련 과정, pytorch 구현, 주요 모델들 비교(장단점 분석)|
-| TEPS | 🌱 | 🌼 | 400점 이상 |
-| AI competition | 🌱 | 🌼 | 예선 준비 |
-| Data Science | 🌱 |  | microsoft - data science for beginners |
-| AI RUSH | 🌱 | 🌼 | 본선 준비 |
-
+| CV |2023.1|〰️||NAVER CLOVA Intern|
 </div>
 
 <div align=left>
