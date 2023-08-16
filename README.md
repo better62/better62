@@ -17,7 +17,7 @@
   
 | Field | Start | Completion | Details |
 | ------ | -- | -- |----------- |
-| CV |2023.1|〰️|NAVER CLOVA Intern|
+| Data Science |2023.9|〰️|Master's degree|
 </div>
 
 <div align=left>
